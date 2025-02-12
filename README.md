@@ -1,2 +1,1 @@
-# ecommercewebsite
-# ecommercewebsite
+The **eCommerce website**, built with **HTML and CSS**, provides a user-friendly platform for online shopping. It features a **homepage, product listings, shopping cart, and checkout section** for a seamless shopping experience. The website is **responsive**, ensuring accessibility across different devices.
